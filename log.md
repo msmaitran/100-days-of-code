@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: September 23, 2019
+### Day 1: September 23, 2019
 
 **Today's Progress**: Worked on the UI files for the Build Week app: RVbnb.
 
