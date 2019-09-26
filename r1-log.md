@@ -24,3 +24,14 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 **Link to work:** [RVbnb App](https://github.com/RVbnb/rvbnb_android/commit/e231208d6d26e5064a27a47854e0a8809e545bf7)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1176702726664871937?s=20)
+
+
+## R1D3: September 25, 2019
+
+**Today's Progress**: App is linked to the backend for the Build Week app: Rvbnb.
+
+**Thoughts:** Pretty cool to see the app working with the backend! Also, the internet is amazing to look up things. Learned how to hide text for passwords that are entered and how to show it when a button is clicked. Hoping to incorporate LiveData into the app tomorrow.
+
+**Link to work:** [RVbnb App](https://github.com/RVbnb/rvbnb_android/commit/a16cb7612d76c033cc12c2631ebf37b202559c68)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1177083949136277505?s=20)
