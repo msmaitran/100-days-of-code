@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 
 ## Log
 
-### R1D1: September 23, 2019 
+## R1D1: September 23, 2019 
 
 **Today's Progress**: Worked on the UI files for the Build Week app: RVbnb.
 
@@ -15,7 +15,7 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1176315723439689729?s=20)
 
 
-### R1D2: September 24, 2019
+## R1D2: September 24, 2019
 
 **Today's Progress**: Added more functionality to the Build Week app: RVbnb.
 
@@ -35,3 +35,13 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 **Link to work:** [RVbnb App](https://github.com/RVbnb/rvbnb_android/commit/a16cb7612d76c033cc12c2631ebf37b202559c68)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1177083949136277505?s=20)
+
+## R1D4: September 26, 2019
+
+**Today's Progress**: App is finished and meets all of the MVP requirements for Build Week: RVbnb.
+
+**Thoughts:** Learned some great things while working on this app. Definitely want to take what I learned to make my own app. It'll help me practice coding more as well. 
+
+**Link to work:**: [RVbnb App](https://github.com/RVbnb/rvbnb_android/pull/55/commits/a658e18622b3de59c0b0790b696779aa9119687b)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1177471695919075328?s=20)
