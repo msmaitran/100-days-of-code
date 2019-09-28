@@ -52,6 +52,6 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 
 **Thoughts:** Even after finishing making UI adjustments, my mind was still thinking about the app and what could be done to improve it. It pretty much kept me up all night. I'm considering making another version of the app so that I could practice coding more. 
 
-**Link to work:" [RVbnb App](https://github.com/RVbnb/rvbnb_android/commit/c5723074564f9fe55e21a546909417e45939dca7)
+**Link to work:** [RVbnb App](https://github.com/RVbnb/rvbnb_android/commit/c5723074564f9fe55e21a546909417e45939dca7)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1177802850337837057?s=20)
