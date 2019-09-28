@@ -28,7 +28,7 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 
 ## R1D3: September 25, 2019
 
-**Today's Progress**: App is linked to the backend for the Build Week app: Rvbnb.
+**Today's Progress:** App is linked to the backend for the Build Week app: Rvbnb.
 
 **Thoughts:** Pretty cool to see the app working with the backend! Also, the internet is amazing to look up things. Learned how to hide text for passwords that are entered and how to show it when a button is clicked. Hoping to incorporate LiveData into the app tomorrow.
 
@@ -38,10 +38,20 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 
 ## R1D4: September 26, 2019
 
-**Today's Progress**: App is finished and meets all of the MVP requirements for Build Week: RVbnb.
+**Today's Progress:** App is finished and meets all of the MVP requirements for Build Week: RVbnb.
 
 **Thoughts:** Learned some great things while working on this app. Definitely want to take what I learned to make my own app. It'll help me practice coding more as well. 
 
-**Link to work:**: [RVbnb App](https://github.com/RVbnb/rvbnb_android/pull/55/commits/a658e18622b3de59c0b0790b696779aa9119687b)
+**Link to work:** [RVbnb App](https://github.com/RVbnb/rvbnb_android/pull/55/commits/a658e18622b3de59c0b0790b696779aa9119687b)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1177471695919075328?s=20)
+
+## R1D5: September 27, 2019
+
+**Today's Progress:** Made final UI adjustments for the Build Week app: RVbnb.
+
+**Thoughts:** Even after finishing making UI adjustments, my mind was still thinking about the app and what could be done to improve it. It pretty much kept me up all night. I'm considering making another version of the app so that I could practice coding more. 
+
+**Link to work:" [RVbnb App](https://github.com/RVbnb/rvbnb_android/commit/c5723074564f9fe55e21a546909417e45939dca7)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1177802850337837057?s=20)
