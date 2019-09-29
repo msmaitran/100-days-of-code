@@ -55,3 +55,13 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 **Link to work:** [RVbnb App](https://github.com/RVbnb/rvbnb_android/commit/c5723074564f9fe55e21a546909417e45939dca7)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1177802850337837057?s=20)
+
+## R1D6: September 28, 2019
+
+**Today's Progress:** Started a new project.
+
+**Thoughts:** Would like to apply the things that I've learned and apply it to a personal project that I'm creating on Android Studio. Hoping this would help solidify what has been taught.
+
+**Link to work:** [My Project](https://github.com/msmaitran/My-Plant-Journal/commit/87a63977a0ef3e9a1ea49dba0b674e370115a0f0)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1178176186859442176?s=20)
