@@ -65,3 +65,13 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 **Link to work:** [My Project](https://github.com/msmaitran/My-Plant-Journal/commit/87a63977a0ef3e9a1ea49dba0b674e370115a0f0)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1178176186859442176?s=20)
+
+## R1D7: September 29, 2019
+
+**Today's Progress:** Continued working on my personal project.
+
+**Thoughts:** Continuing to code everyday. Hope I can keep this up. Thought it'd be hard to make time over the weekend to code, but it wasn't. Just have to set your mind to do it. Starting to get in the hang of designing the UI for activities. I enjoy doing it as it lets me be creative. There's definitely still more to learn. Would like to experiment and try new features.
+
+**Link to work:** [My Project](https://github.com/msmaitran/My-Plant-Journal/commit/839eeb22b481c885669554c3b11f4eac47bd658e)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1178530109961039873?s=20)
