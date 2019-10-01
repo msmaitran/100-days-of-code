@@ -75,3 +75,13 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 **Link to work:** [My Project](https://github.com/msmaitran/My-Plant-Journal/commit/839eeb22b481c885669554c3b11f4eac47bd658e)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1178530109961039873?s=20)
+
+## R1D8: September 30, 2019
+
+**Today's Progress:** Learned debugging tools.
+
+**Thoughts:** Practiced my debugging skills on someone else's app. It's a bit more work to debug someone else's project since not entirely familiar how the app was coded/built. Would help if the developer made some comments throughout their app. 
+
+**Link to work:** [Debugging Project](https://github.com/msmaitran/Sprint-Android-Code-Quality-Assignments/commit/88d7520ff305e312788e5920d833251f1254611b)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1178891974893375488?s=20)
