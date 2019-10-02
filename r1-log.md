@@ -85,3 +85,13 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 **Link to work:** [Debugging Project](https://github.com/msmaitran/Sprint-Android-Code-Quality-Assignments/commit/88d7520ff305e312788e5920d833251f1254611b)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1178891974893375488?s=20)
+
+## R1D9: October 1, 2019
+
+**Today's Progress:** Learned about Stetho & LeakCanary.
+
+**Thoughts:** Did not know about the Developer Tool in Chrome. Also learned how to use the Profiler in Android Studio. Pretty cool tools. 
+
+**Link to work:** [Project with Stetho & LeakCanary](https://github.com/msmaitran/Sprint-Android-Code-Quality-Assignments/commit/02e943a483cd9db6debf4dc8d373c7cf69aae3a0)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1179387794751401985?s=20)
