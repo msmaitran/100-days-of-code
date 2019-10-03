@@ -95,3 +95,13 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 **Link to work:** [Project with Stetho & LeakCanary](https://github.com/msmaitran/Sprint-Android-Code-Quality-Assignments/commit/02e943a483cd9db6debf4dc8d373c7cf69aae3a0)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1179387794751401985?s=20)
+
+## R1D10: October 2, 2019
+
+**Today's Progress:** Learned about Unit Testing.
+
+**Thoughts:** For Unit Testing, we learned how to use Android Studio's tools to add unit tests to a project, write basic unit tests, and run them to ensure that the code works correctly.
+
+**Link to work:** [Project with Unit Testing](https://github.com/msmaitran/Sprint-Android-Code-Quality-Assignments/pull/1/commits/d4db060eb5aacab202f7539afe15cd4925701992)
+
+**Link to Tweet:** [Tweet}(https://twitter.com/ms_maitran/status/1179605736550088705?s=20)
