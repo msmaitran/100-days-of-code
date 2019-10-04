@@ -115,3 +115,14 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 **Link to work:** [Project with UI Testing](https://github.com/msmaitran/Sprint-Android-Code-Quality-Assignments/tree/Mai-Tran/M04/Assignment/AndroidUITestingCalculator) & [Dice Roller](https://github.com/msmaitran/Udacity/tree/master/DiceRoller)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1179987770581737473?s=20)
+
+
+## R1D12: October 4, 2019
+
+**Today's Progress:** Completed Sprint Challenge
+
+**Thoughts:** This week's sprint challenge we had to apply what we learned and debug an app. I got the app working and hopefully I fixed all of the bugs. 
+
+**Link to work:** [Sprint Challenge Project](https://github.com/msmaitran/Android_Sprint8Challenge_CongressDebug/tree/Mai-Tran)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1180220713799520256?s=20)
