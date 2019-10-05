@@ -119,10 +119,20 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 
 ## R1D12: October 4, 2019
 
-**Today's Progress:** Completed Sprint Challenge
+**Today's Progress:** Completed Sprint Challenge.
 
 **Thoughts:** This week's sprint challenge we had to apply what we learned and debug an app. I got the app working and hopefully I fixed all of the bugs. 
 
 **Link to work:** [Sprint Challenge Project](https://github.com/msmaitran/Android_Sprint8Challenge_CongressDebug/tree/Mai-Tran)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1180220713799520256?s=20)
+
+## R1D13: October 5, 2019
+
+**Today’s Progress:** Started learning about data binding.
+
+**Thoughts:** Read that data binding is a powerful tool for Android Devs, so I’m super excited to learn about it. 
+
+**Link to work:** [About Me]
+
+**Link to Tweet:** [Tweet]
