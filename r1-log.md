@@ -135,4 +135,4 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 
 **Link to work:** [About Me]
 
-**Link to Tweet:** [Tweet]
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1180623671611678721?s=20)
