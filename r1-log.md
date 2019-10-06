@@ -133,6 +133,6 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 
 **Thoughts:** Read that data binding is a powerful tool for Android Devs, so I’m super excited to learn about it. 
 
-**Link to work:** [About Me]
+**Link to work:** [About Me](https://github.com/msmaitran/Udacity/commit/ba00e3a485933402dcfe0e56e9535aeafd1188ea)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1180623671611678721?s=20)
