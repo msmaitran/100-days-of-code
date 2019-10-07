@@ -143,6 +143,6 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 
 **Thoughts:** Used data binding in the About Me app. Seems pretty cool. I will definitely need more practice on this. With the Color My Views, learned how to do different chains and constraint the baselines. Will also have to practice doing this more.
 
-**Link to work:** [About Me] (https://github.com/msmaitran/Udacity/tree/master/AboutMe) & [Color My Views](https://github.com/msmaitran/Udacity/tree/master/ColorMyViews)
+**Link to work:** [About Me](https://github.com/msmaitran/Udacity/tree/master/AboutMe) & [Color My Views](https://github.com/msmaitran/Udacity/tree/master/ColorMyViews)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1181017780109234176?s=20)
