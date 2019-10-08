@@ -146,3 +146,13 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 **Link to work:** [About Me](https://github.com/msmaitran/Udacity/tree/master/AboutMe) & [Color My Views](https://github.com/msmaitran/Udacity/tree/master/ColorMyViews)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1181017780109234176?s=20)
+
+## R1D15: October 7, 2019
+
+**Today's Progress:** Learned how to do Media Programming.
+
+**Thoughts:** Interesting topic. Was glad to figure out how to do the time feature on the media app. 
+
+**Link to work:** [Media Services](https://github.com/msmaitran/Sprint-Android-Additional-Android-Assignments/tree/Mai-Tran/M01/Assignment/MediaServices)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1181438615542358016?s=20)
