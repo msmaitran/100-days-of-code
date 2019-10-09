@@ -156,3 +156,13 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 **Link to work:** [Media Services](https://github.com/msmaitran/Sprint-Android-Additional-Android-Assignments/tree/Mai-Tran/M01/Assignment/MediaServices)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1181438615542358016?s=20)
+
+## R1D16: October 8, 2019
+
+**Today's Progress:** Learned about Location Based Services.
+
+**Thoughts:** Pretty neat and fun to play with.
+
+**Link to work:** [Location Based Services - Map Marker](https://github.com/msmaitran/Sprint-Android-Additional-Android-Assignments/tree/Mai-Tran/M02/Assignment/LocationBasedServicesMapMarker)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1181791988540002304?s=20)
