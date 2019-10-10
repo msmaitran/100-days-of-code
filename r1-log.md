@@ -166,3 +166,13 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 **Link to work:** [Location Based Services - Map Marker](https://github.com/msmaitran/Sprint-Android-Additional-Android-Assignments/tree/Mai-Tran/M02/Assignment/LocationBasedServicesMapMarker)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1181791988540002304?s=20)
+
+## R1D17: October 9, 2019
+
+**Today's Progress:** Learned how to design menus.
+
+**Thoughts:** Useful and needed in all apps. Looking forward to implementing this in my own app.
+
+**Link to work:** [Android Menus Design](https://github.com/msmaitran/Sprint-Android-Additional-Android-Assignments/tree/Mai-Tran/M03/Assignment/AndroidMenusDesign)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1182136234325336064?s=20)
