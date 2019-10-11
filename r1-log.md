@@ -183,4 +183,4 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 
 **Thoughts:** It will be neat when I release my own app in the future!
 
-**Link to Tweet:** [Tweet] (https://twitter.com/ms_maitran/status/1182501168758456321?s=20)
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1182501168758456321?s=20)
