@@ -176,3 +176,11 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 **Link to work:** [Android Menus Design](https://github.com/msmaitran/Sprint-Android-Additional-Android-Assignments/tree/Mai-Tran/M03/Assignment/AndroidMenusDesign)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1182136234325336064?s=20)
+
+## R1D18: October 10, 2019
+
+**Today's Progress:** Learned how to publish an app onto Google Play.
+
+**Thoughts:** It will be neat when I release my own app in the future!
+
+**Link to Tweet:** [Tweet] (https://twitter.com/ms_maitran/status/1182501168758456321?s=20)
