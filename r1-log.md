@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Mai Tran
 
-The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
+The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 
 ## Log
 
@@ -184,3 +184,13 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Monday, 2019].
 **Thoughts:** It will be neat when I release my own app in the future!
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1182501168758456321?s=20)
+
+## R1D19: October 11, 2019
+
+**Today's Progress:** Completed the Sprint Challenge.
+
+**Thoughts:** Was able to apply everthing that was taught this week to the app and passed on the first try.
+
+**Link to work:** [Additional Android Sprint Challenge](https://github.com/msmaitran/Android_Sprint9_Challenge)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1182801333880901632?s=20)
