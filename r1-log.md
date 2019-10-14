@@ -194,3 +194,23 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 **Link to work:** [Additional Android Sprint Challenge](https://github.com/msmaitran/Android_Sprint9_Challenge)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1182801333880901632?s=20)
+
+## R1D20: October 12, 2019
+
+**Today's Progress:** Working on app navigation for a Trivia app.
+
+**Thoughts:** Learning to work more with fragments and navigation. Pretty useful material.
+
+**Link to work:** [Trivia](https://github.com/msmaitran/Udacity/commit/9ba1a5e79bdf01f3f31541c014462bf649a3a5a4)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1183072478819569664?s=20)
+
+## R1D21: October 13, 2019
+
+**Today's Progress:** Continued working on app navigation.
+
+**Thoughts:** App navigation will be useful for the next build week.
+
+**Link to work:** [Trivia](https://github.com/msmaitran/Udacity/commit/1eaf1a491ff7cf64b91784761bef92fdcf12ef1f)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1183623713083641857?s=20)
