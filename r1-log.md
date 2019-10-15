@@ -214,3 +214,13 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 **Link to work:** [Trivia](https://github.com/msmaitran/Udacity/commit/1eaf1a491ff7cf64b91784761bef92fdcf12ef1f)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1183623713083641857?s=20)
+
+## R1D22: October 14, 2019
+
+**Today's Progress:** Learned how to fix merge conflicts and rebasing.
+
+**Thoughts:** Was able to succuessfully fix merge conflicts, rebasing, and also making tags.
+
+**Link to work:** [Android Navigation Drawer](https://github.com/msmaitran/Sprint-Android-Advanced-Kotlin-Assignments/tree/master/M01/Assignment/AndroidNavigationDrawer)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1183905548913086465?s=20)
