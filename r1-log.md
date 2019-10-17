@@ -224,3 +224,23 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 **Link to work:** [Android Navigation Drawer](https://github.com/msmaitran/Sprint-Android-Advanced-Kotlin-Assignments/tree/master/M01/Assignment/AndroidNavigationDrawer)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1183905548913086465?s=20)
+
+## R1D23: October 15, 2019
+
+**Today's Progress:** Learned how to use Kotlin Extensions.
+
+**Thoughts:** Kotlin Extensions are used for customizing View, Dialog, and Notification behavior.
+
+**Link to work:** [Extension Functions](https://github.com/msmaitran/Sprint-Android-Advanced-Kotlin-Assignments/tree/Mai-Tran/M02/Assignment/ExtensionFunctions)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1184273031926935552?s=20)
+
+## R1D24: October 16, 2019
+
+**Today's Progress:** Learned more about Advanced Kotlin Concepts.
+
+**Thoughts:** Learned about 'lateinit', 'lazy', 'set', 'get', 'sealed classes', and how to implement delegates like 'Observable' and 'Vetoable'.
+
+**Link to work:** [Advanced Kotlin](https://github.com/msmaitran/Sprint-Android-Advanced-Kotlin-Assignments/tree/Mai-Tran/M03/Assignment/AdvancedKotlin)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1184672226848600065?s=20)
