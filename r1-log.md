@@ -244,3 +244,23 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 **Link to work:** [Advanced Kotlin](https://github.com/msmaitran/Sprint-Android-Advanced-Kotlin-Assignments/tree/Mai-Tran/M03/Assignment/AdvancedKotlin)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1184672226848600065?s=20)
+
+## R1D25: October 17, 2019
+
+**Today's Progress:** Learned how to implement the Conductor library.
+
+**Thoughts:** Seemed pretty cool to learn how to implement other libraries into an app.
+
+**Link to work:** [Conductor Assignment]
+
+**Link to Tweet:** [Tweet]
+
+## R1D26: October 18, 2019
+
+**Today's Progress:** Completed the Sprint Challenge!
+
+**Thoughts:** The math portion of the sprint challenge was a bit difficult to implement, but once I got it to work, it was satisfying.
+
+**Link to work:** [Matrices Calculator Challenge]
+
+**Link to Tweet:** [Tweet]
