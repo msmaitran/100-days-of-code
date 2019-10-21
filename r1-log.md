@@ -251,9 +251,9 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 
 **Thoughts:** Seemed pretty cool to learn how to implement other libraries into an app.
 
-**Link to work:** [Conductor Assignment]
+**Link to work:** [Conductor Assignment](https://github.com/msmaitran/Sprint-Android-Advanced-Kotlin-Assignments/tree/Mai-Tran/M04/Assignment/Conductor)
 
-**Link to Tweet:** [Tweet]
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1185086474921758720?s=20)
 
 ## R1D26: October 18, 2019
 
@@ -261,6 +261,26 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 
 **Thoughts:** The math portion of the sprint challenge was a bit difficult to implement, but once I got it to work, it was satisfying.
 
-**Link to work:** [Matrices Calculator Challenge]
+**Link to work:** [Matrices Calculator Challenge](https://github.com/msmaitran/Sprint-Android-Advanced-Kotlin-Challenge/tree/Mai-Tran)
 
-**Link to Tweet:** [Tweet]
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1185366105080025088?s=20)
+
+## R1D27: October 19, 2019
+
+**Today's Progress:** Practiced some coding exercises.
+
+**Thoughts:** As I continue to practice coding exercises, I am also practicing how to type faster.
+
+**Link to work:** [Dessert Pusher](https://github.com/msmaitran/Udacity/commit/456956e58346ce727b91fdbde9bd7a67daa25360)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1186130601000046593?s=20)
+
+## R1D28: October 20, 2019
+
+**Today's Progress:** Continued to practice coding exercises.
+
+**Thoughts:** Strengthening my knowledge on lifecycles.
+
+**Link to work:** [Dessert Pusher](https://github.com/msmaitran/Udacity/tree/master/DessertPusher)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1186130601000046593?s=20)
