@@ -284,3 +284,13 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 **Link to work:** [Dessert Pusher](https://github.com/msmaitran/Udacity/tree/master/DessertPusher)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1186130601000046593?s=20)
+
+## R1D29: October 21, 2019
+
+**Today's Progress:** Off to a good start for Build Week!
+
+**Thoughts:** Still have a lot to do, but off to a good start. So far we've implemented Conductors and have set up the model and API.
+
+**Link to work:** [Water My Plants](https://github.com/Water-MyPlants/ANDROID)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1186496287379558400?s=20)
