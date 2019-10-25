@@ -294,3 +294,43 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 **Link to work:** [Water My Plants](https://github.com/Water-MyPlants/ANDROID)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1186496287379558400?s=20)
+
+## R1D30: October 22, 2019
+
+**Today's Progress:** Continued working on the Water My Plants app.
+
+**Thoughts:** Made some good progress on the app. Added functionality, inflated option menu, and updated UI.
+
+**Link to work:** [Water My Plants](https://github.com/Water-MyPlants/ANDROID)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1186879655564824576?s=20)
+
+## R1D31: October 23, 2019
+
+**Today's Progress:** Almost done with the Water My Plants app!
+
+**Thoughts:** Started some of the code for Room. Implemented notifications to remind when to water the plant.
+
+**Link to work:** [Water My Plants](https://github.com/Water-MyPlants/ANDROID)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1187261090251456514?s=20)
+
+## R1D32: October 24, 2019
+
+**Today's Progress:** Fixed some bugs, cleaned up some code, and did some unit testing.
+
+**Thoughts:** So happy with how the app turned out! There's definitely more that could be done. Would love if the backend was setup for pictures. Would be nice to add that feature to the app.
+
+**Link to work:** [Water My Plants](https://github.com/Water-MyPlants/ANDROID)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1187598224288186368?s=20)
+
+## R1D33: October 25, 2019
+
+**Today's Progress:** All done with the app!
+
+**Thoughts:** Build week was a success!
+
+**Link to work:** [Water My Plants](https://github.com/Water-MyPlants/ANDROID)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1187846924985962496?s=20)
