@@ -334,3 +334,43 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 **Link to work:** [Water My Plants](https://github.com/Water-MyPlants/ANDROID)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1187846924985962496?s=20)
+
+## R1D34: October 26, 2019
+
+**Today's Progress:** Continued to practice coding.
+
+**Thoughts:** Definitely good to practice everyday.
+
+**Link to work:** [Guess It](https://github.com/msmaitran/Udacity/tree/master/GuessIt)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1189053917704802305?s=20)
+
+## R1D35: October 27, 2019
+
+**Today's Progress:** More coding today!
+
+**Thoughts:** Love seeing all the green on the Contribution Chart.
+
+**Link to work:** [Guess It](https://github.com/msmaitran/Udacity/tree/master/GuessIt)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1189053917704802305?s=20)
+
+## R1D36: October 28, 2019
+
+**Today's Progress:** Lesson was on RxJava2.
+
+**Thoughts:** Already implemented/used RxJava2 in last week's Build Week.
+
+**Link to work:** [Mortgage Calculator](https://github.com/msmaitran/Sprint-Android-Best-Practices-Assignments/tree/Mai-Tran/M01/Assignment/MortgageCalculator)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1189053917704802305?s=20)
+
+## R1D37: October 29, 2019
+
+**Today's Progress:** Lesson was on Android Crash Reporting & Java for Kotlin Devs
+
+**Thoughts:** Setting up Crashlytics was pretty easy. Definitely will need to brush up some more on Java.
+
+**Link to work:** [Android Crash Reporting](https://github.com/msmaitran/Sprint-Android-Best-Practices-Assignments/tree/Mai-Tran/M02/Assignment/AndroidCrashReporting)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1189427120562290689?s=20)
