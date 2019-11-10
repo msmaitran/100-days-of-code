@@ -417,63 +417,63 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 
 ## R1D42: November 3, 2019
 
-**Today's Progress:**
+**Today's Progress:** Practiced more coding!
 
-**Thoughts:**
+**Thoughts:** Definitely good to keep practicing. Finished buiding the app.
 
-**Link to work:**
+**Link to work:** [Guess It](https://github.com/msmaitran/Udacity/tree/master/GuessIt)
 
-**Link to Tweet:**
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1191257707027656704?s=20)
 
 ## R1D43: November 4, 2019
 
-**Today's Progress:**
+**Today's Progress:** Lesson was on Intro to Maven, Spring, and Tomcat using RESTAPI. 
 
-**Thoughts:**
+**Thoughts:** Java isn't too bad. 
 
-**Link to work:**
+**Link to work:** [Java Countries](https://github.com/msmaitran/java-countries/tree/Mai-Tran)
 
-**Link to Tweet:**
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1191538548819628033?s=20)
 
 ## R1D44: November 5, 2019
 
-**Today's Progress:**
+**Today's Progress:** Learned about Java RDBMS SQL Basics using pgAdmn. 
 
-**Thoughts:**
+**Thoughts:** Fun to learn how to use new tools/applications.
 
-**Link to work:**
+**Link to work:** [Java SQL](https://github.com/msmaitran/java-sql/tree/Mai-Tran)
 
-**Link to Tweet:**
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1191875320808214528?s=20)
 
 ## R1D45: November 6, 2019
 
-**Today's Progress:**
+**Today's Progress:** Learned how to perform CRUD operations on an RDBMS using JPA and Hibernate.
 
-**Thoughts:**
+**Thoughts:** Exciting when things are working the way they're supposed to.
 
-**Link to work:**
+**Link to work:** [Java Orders](https://github.com/msmaitran/java-orders/tree/Mai-Tran)
 
-**Link to Tweet:**
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1192332442968838145?s=20)
 
 ## R1D46: November 7, 2019
 
-**Today's Progress:**
+**Today's Progress:** Continued to learn CRUD operations and generating Seed Data.
 
-**Thoughts:**
+**Thoughts:** Fun to learn new things. 
 
-**Link to work:**
+**Link to work:** [Java CRUDy Orders](https://github.com/msmaitran/java-crudyorders/tree/Mai-Tran)
 
-**Link to Tweet:**
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1192918481043197954?s=20)
 
 ## R1D47: November 8, 2019
 
-**Today's Progress:**
+**Today's Progress:** Completed the Sprint Challenge in good timing.
 
-**Thoughts:**
+**Thoughts:** Passed the sprint challenge!
 
-**Link to work:**
+**Link to work:** [Java Todos](https://github.com/msmaitran/Sprint-Challenge--RDBMS-and-API-Intros-java-todos/tree/Mai-Tran)
 
-**Link to Tweet:**
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1192918481043197954?s=20)
 
 ## R1D48: November 9, 2019
 
