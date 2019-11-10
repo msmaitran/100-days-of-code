@@ -477,10 +477,10 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 
 ## R1D48: November 9, 2019
 
-**Today's Progress:**
+**Today's Progress:** Practiced some coding in Android Studio.
 
-**Thoughts:**
+**Thoughts:** It's been awhile since I had to open Android Studio. This whole past week, been coding Java in Intellij.
 
-**Link to work:**
+**Link to work:** [Sleep Tracker](https://github.com/msmaitran/Udacity/commit/c86259d7c0bcba715fd42a7a790e5302f74f471d)
 
-**Link to Tweet:**
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1193422027564040192?s=20)
