@@ -374,3 +374,113 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 **Link to work:** [Android Crash Reporting](https://github.com/msmaitran/Sprint-Android-Best-Practices-Assignments/tree/Mai-Tran/M02/Assignment/AndroidCrashReporting)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1189427120562290689?s=20)
+
+## R1D38: October 30, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Link to Tweet:**
+
+## R1D39: October 31, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Link to Tweet:**
+
+## R1D40: November 1, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Link to Tweet:**
+
+## R1D41: November 2, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Link to Tweet:**
+
+## R1D42: November 3, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Link to Tweet:**
+
+## R1D43: November 4, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Link to Tweet:**
+
+## R1D44: November 5, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Link to Tweet:**
+
+## R1D45: November 6, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Link to Tweet:**
+
+## R1D46: November 7, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Link to Tweet:**
+
+## R1D47: November 8, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Link to Tweet:**
+
+## R1D48: November 9, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Link to Tweet:**
