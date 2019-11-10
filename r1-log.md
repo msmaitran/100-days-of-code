@@ -377,43 +377,43 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 
 ## R1D38: October 30, 2019
 
-**Today's Progress:**
+**Today's Progress:** Learned how to use Analytics on an app.
 
-**Thoughts:**
+**Thoughts:** Pretty cool developer tool.
 
-**Link to work:**
+**Link to work:** [Android Analytics/Reading List](https://github.com/msmaitran/Sprint-Android-Best-Practices-Assignments/tree/Mai-Tran/M03/Assignment)
 
-**Link to Tweet:**
+**Link to Tweet:** [Tweet}(https://twitter.com/ms_maitran/status/1189760732235104256?s=20)
 
 ## R1D39: October 31, 2019
 
-**Today's Progress:**
+**Today's Progress:** Lesson was on Dagger2.
 
-**Thoughts:**
+**Thoughts:** Apparently in the bayarea, Dagger2 is used a lot. I definitely need to practice more.
 
-**Link to work:**
+**Link to work:** [Networking App Using Dagger2](https://github.com/msmaitran/Sprint-Android-Best-Practices-Assignments/tree/Mai-Tran/M04/Assignment)
 
-**Link to Tweet:**
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1190148867729178629?s=20)
 
 ## R1D40: November 1, 2019
 
-**Today's Progress:**
+**Today's Progress:** Passed my sprint challenge with flying colors!
 
-**Thoughts:**
+**Thoughts:** Note to self, rebuild a project if there are issues with Dagger2.
 
-**Link to work:**
+**Link to work:** [Android Best Practices Sprint Challenge(https://github.com/msmaitran/Android_Sprint13_Challenge/tree/Mai-Tran)
 
-**Link to Tweet:**
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1190469095734403077?s=20)
 
 ## R1D41: November 2, 2019
 
-**Today's Progress:**
+**Today's Progress:** Created the GameViewModel.
 
-**Thoughts:**
+**Thoughts:** Busy day, but managed to squeeze in some time for coding. Determined to hit 100 days of code.
 
-**Link to work:**
+**Link to work:** [Guess It](https://github.com/msmaitran/Udacity/commit/116bea595a387c5f336109d069eadac91603e916)
 
-**Link to Tweet:**
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1190860138619359232?s=20)
 
 ## R1D42: November 3, 2019
 
