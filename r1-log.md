@@ -383,7 +383,7 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 
 **Link to work:** [Android Analytics/Reading List](https://github.com/msmaitran/Sprint-Android-Best-Practices-Assignments/tree/Mai-Tran/M03/Assignment)
 
-**Link to Tweet:** [Tweet}(https://twitter.com/ms_maitran/status/1189760732235104256?s=20)
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1189760732235104256?s=20)
 
 ## R1D39: October 31, 2019
 
@@ -401,7 +401,7 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 
 **Thoughts:** Note to self, rebuild a project if there are issues with Dagger2.
 
-**Link to work:** [Android Best Practices Sprint Challenge(https://github.com/msmaitran/Android_Sprint13_Challenge/tree/Mai-Tran)
+**Link to work:** [Android Best Practices Sprint Challenge](https://github.com/msmaitran/Android_Sprint13_Challenge/tree/Mai-Tran)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1190469095734403077?s=20)
 
