@@ -484,3 +484,33 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 **Link to work:** [Sleep Tracker](https://github.com/msmaitran/Udacity/commit/c86259d7c0bcba715fd42a7a790e5302f74f471d)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1193422027564040192?s=20)
+
+## R1D49: November 10, 2019
+
+**Today's Progress:** More coding in Kotlin.
+
+**Thoughts:** Squeezed in some more coding in Kotlin before another week of Java.
+
+**Link to work:** [Sleep Tracker](https://github.com/msmaitran/Udacity/commit/3989d2aa8c5112d9c00d9c5677e0ff6bd615edfc)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1193798761253761024?s=20)
+
+## R1D50: November 11, 2019
+
+**Today's Progress:** Learned data modeling, auditing fields, custom query.
+
+**Thoughts:** Lots of typing for Java Backend.
+
+**Link to work:** [Java Zoos](https://github.com/msmaitran/java-zoos)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1194171366091526144?s=20)
+
+## R1D51: November 12, 2019
+
+**Today's Progress:** Learned how to add exception handling, logging, and swagger.
+
+**Thoughts:** Lots of boilerplate code.
+
+**Link to work:** [Exceptional Zoos](https://github.com/msmaitran/java-exceptionalzoos)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1194491894291554304?s=20)
