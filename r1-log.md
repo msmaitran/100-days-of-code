@@ -514,3 +514,13 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 **Link to work:** [Exceptional Zoos](https://github.com/msmaitran/java-exceptionalzoos)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1194491894291554304?s=20)
+
+## R1D52: November 13, 2019
+
+**Today's Progress:** Learned how to do automated testing using TDD for Java Backend.
+
+**Thoughts:** Testing is pretty similar to Unit Testing in Android Studio. Will probably come in handy next week for Build Week.
+
+**Link to work:** [Zoos Testing](https://github.com/msmaitran/java-testingzoos)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1194873482628100096?s=20)
