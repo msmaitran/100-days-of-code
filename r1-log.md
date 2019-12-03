@@ -524,3 +524,193 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 **Link to work:** [Zoos Testing](https://github.com/msmaitran/java-testingzoos)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1194873482628100096?s=20)
+
+## R1D53: November 14, 2019
+
+**Today's Progress:** Learned how to do user authentication by implementing Spring Security and OAuth2.
+
+**Thoughts:** Made great progress doing user authetication. Will be super useful for Build Week.
+
+**Link to work:** [Safe Zoos](https://github.com/msmaitran/java_safezoos)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1195250462095622144?s=20)
+
+## R1D54: November 15, 2019
+
+**Today's Progress:** Passed this week's Sprint Challenge.
+
+**Thoughts:** Everything went well during the Sprint Challenge and completed the stretch goals. Deployed onto Heroku!
+
+**Link to work:** [Bookstore](https://github.com/msmaitran/Sprint-Challenge--Java-Frameworks-java-bookstore)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1195568961103904768?s=20)
+
+## R1D55: November 16, 2019
+
+**Today's Progress:** Started working on the backend for Build Week.
+
+**Thoughts:** Wanted to make sure that I would be able to deliver a backend that works so that the team can implement it into their project.
+
+**Link to work:** [One Line A Day](https://github.com/One-Line-A-Day-11-19/Back-end/commit/72bb4ad9f4a7712d28123feb08ce2d94ef649b18)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1195977363856621568?s=20)
+
+## R1D56: November 17, 2019
+
+**Today's Progress:** Busy day, but managed tow ork on some of the backend for Build Week.
+
+**Thoughts:** Hoping I can have the backend working by tomorrow.
+
+**Link to work:** [One Line A Day](https://github.com/One-Line-A-Day-11-19/Back-end/commit/4befa76cb772fb3c8f7a47effeb69742d27edee2)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1196310210987429888?s=20)
+
+## R1D57: November 18, 2019
+
+**Today's Progress:** Off to a good start for Build Week.
+
+**Thoughts:** Backend is deployed to Heroku. Still need to add authentication and tests.
+
+**Link to work:** [One Line A Day](https://github.com/One-Line-A-Day-11-19/Back-end/commit/3f6c0f1b9253c72e9143c5f337116ec546ae62aa)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1196679836523094016?s=20)
+
+## R1D58: November 19, 2019
+
+**Today's Progress:** Added authentication to the backend.
+
+**Thoughts:** So glad I was able to add authentication/token. Next thing to complete are tests.
+
+**Link to work:** [One Line A Day](https://github.com/One-Line-A-Day-11-19/Back-end/commit/c641fc2b7a4de9086f0d428df036bcec4d44480e)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1197060284466130950?s=20)
+
+## R1D59: November 20, 2019
+
+**Today's Progress:** Added some tests for backend.
+
+**Thoughts:** Not a fan of creating tests, but it needs to be done. Will need to finish the rest of the tests tomorrow.
+
+**Link to work:** [One Line A Day](https://github.com/One-Line-A-Day-11-19/Back-end/commit/3d72cf97561f3f2622d8d56bba75e0192e72d98d)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1197423180949798912?s=20)
+
+## R1D60: November 21, 2019
+
+**Today's Progress:** Finished adding tests for the backend.
+
+**Thoughts:** Glad this week was a success! Also added swagger documents.
+
+**Link to work:** [One Line A Day](https://github.com/One-Line-A-Day-11-19/Back-end/commit/f7b0976d9c42e7c18cc7d4c37c544a58d66ee21e)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1197768734716256256?s=20)
+
+## R1D61: November 22, 2019
+
+**Today's Progress:** Since Build Week is over, I opened up Android Studio to practice coding in Kotlin.
+
+**Thoughts:** Felt great to do some coding in Kotlin. Added ViewModel and Coroutines for Long-running Operations.
+
+**Link to work:** [Sleep Tracker](https://github.com/msmaitran/Udacity/commit/4f0a70cba59933d560e13493c27162f02d19285c)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1198044987235061760?s=20)
+
+## R1D62: November 23, 2019
+
+**Today's Progress:** More coding on this lovely day!
+
+**Thoughts:** Added recording sleep quality and button states and snackbar. Completed the app.
+
+**Link to work:** [Sleep Tracker](https://github.com/msmaitran/Udacity/commit/7ba20523d942a8a4e069723f157f523fc2dfb92f)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1198507614100869121?s=20)
+
+## R1D63: November 24, 2019
+
+**Today's Progress:** Add more to the Sleep Tracker app.
+
+**Thoughts:** Add RecyclerView, display SleepQuality Data, recycling ViewHolders, display the SleepQuality List, refactor onBindViewHolder, refactor onCreateViewHolder, refresh Data with DiffUtil.
+
+**Link to work:** [Sleep Tracker With RecyclerView](https://github.com/msmaitran/Udacity/commit/bcdd33ad824bba2a04f7f6eca693ae12c0a60fe9)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1201653338531491840?s=20)
+
+## R1D64: November 25, 2019
+
+**Today's Progress:** Fix SleepNightAdapter.
+
+**Thoughts:** Had to review my previous code since I could not get it to run. Felt satisfying to figure out what was wrong and fix it.
+
+**Link to work:** [Sleep Tracker With RecyclerView](https://github.com/msmaitran/Udacity/commit/67714cba52745c03ee6019d1b947e15a0dc200ad)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1201653338531491840?s=20)
+
+## R1D65: November 26, 2019
+
+**Today's Progress:** Add DataBinding to the adapter.
+
+**Thoughts:** Hoping to add DataBinding to more of my apps in the future.
+
+**Link to work:** [Sleep Tracker With RecyclerView](https://github.com/msmaitran/Udacity/commit/6d2c528d96a80aed2689e10144b9d41ffeb025d0)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1201653338531491840?s=20)
+
+## R1D66: November 27, 2019
+
+**Today's Progress:** Continued to work on the Sleep Tracker With RecyclerView app.
+
+**Thoughts:** Added Binding adapters, change LinearLayout to GridLayout and implement ClickListener.
+
+**Link to work:** [Sleep Tracker With RecyclerView](https://github.com/msmaitran/Udacity/commit/ffbb91f4a250ee433fbfa1d438161059b7673e9a)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1201653338531491840?s=20)
+
+## R1D67: November 28, 2019
+
+**Today's Progress:** Reviewed the code.
+
+**Thoughts:** Added navigate onClick.
+
+**Link to work:** [Sleep Tracker With RecyclerView](https://github.com/msmaitran/Udacity/commit/3f0b0c6b9db7c09d3814a733242bc905741b2f7f)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1201653338531491840?s=20)
+
+## R1D68: November 29, 2019
+
+**Today's Progress:** Almost done with the app.
+
+**Thoughts:** Added a list header.
+
+**Link to work:** [Sleep Tracker With RecyclerView](https://github.com/msmaitran/Udacity/commit/22f263a9723d46557f4b4f4a6d189de56d5b2165)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1201653338531491840?s=20)
+
+## R1D69: November 30, 2019
+
+**Today's Progress:** Done with the app.
+
+**Thoughts:** Added a header to the GridLayout.
+
+**Link to work:** [Sleep Tracker With RecyclerView](https://github.com/msmaitran/Udacity/commit/0fdfe4c8c114c8418db8a49266dd1dbce2fe3a87)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1201653338531491840?s=20)
+
+## R1D70: December 1, 2019
+
+**Today's Progress:** Had to review the code as the app was not working.
+
+**Thoughts:** After reviewing the code, I was able to fix it so that it would run.
+
+**Link to work:** [Sleep Tracker With RecyclerView](https://github.com/msmaitran/Udacity/commit/d1b1169b1dbc4c3b7ee1f6b01e5b6e4a32640870)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1201653338531491840?s=20)
+
+## R1D71: December 2, 2019
+
+**Today's Progress:** Started on a new app.
+
+**Thoughts:** Hoping to continue to code while I begin the Labs portion of school. We will not be coding the first two weeks.
+
+**Link to work:** [Mars Real Estate](https://github.com/msmaitran/Udacity/commit/63c06b0cffe79031bdf06cddad5f72010199884f)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1201653338531491840?s=20)
