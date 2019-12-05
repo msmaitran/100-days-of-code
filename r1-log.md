@@ -724,3 +724,13 @@ The log of my #100DaysOfCode challenge. Started on September 23, Monday, 2019.
 **Link to work:** [Mars Real Estate](https://github.com/msmaitran/Udacity/commit/d83f8ec928d391df92e7b3833353a53718a31a00)
 
 **Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1202113509313540096?s=20)
+
+## R1D73: December 4, 2019
+
+**Today's Progress:** Did some coding after class.
+
+**Thoughts:** Need to continue practice coding so that it's still fresh in my mind.
+
+**Link to work:** [Mars Real Estate](https://github.com/msmaitran/Udacity/commit/f8f36aaafb346cf9fa5960e4c94c4fb8b2285b39)
+
+**Link to Tweet:** [Tweet](https://twitter.com/ms_maitran/status/1202469616791896065?s=20)
